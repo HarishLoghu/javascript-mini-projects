@@ -1,0 +1,154 @@
+{
+  "questions": [
+    {
+      "question": "What is the largest planet in our solar system?",
+      "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+      "answer": "Jupiter"
+    },
+    {
+      "question": "Which element has the chemical symbol 'O'?",
+      "options": ["Osmium", "Oxygen", "Gold", "Oganesson"],
+      "answer": "Oxygen"
+    },
+    {
+      "question": "Who developed the theory of relativity?",
+      "options": ["Isaac Newton", "Albert Einstein", "Nikola Tesla", "Galileo Galilei"],
+      "answer": "Albert Einstein"
+    },
+    {
+      "question": "Which is the smallest prime number?",
+      "options": ["0", "1", "2", "3"],
+      "answer": "2"
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Venus", "Mars", "Mercury", "Saturn"],
+      "answer": "Mars"
+    },
+    {
+      "question": "What is the capital city of Japan?",
+      "options": ["Beijing", "Seoul", "Tokyo", "Kyoto"],
+      "answer": "Tokyo"
+    },
+    {
+      "question": "Which gas do plants primarily absorb for photosynthesis?",
+      "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+      "answer": "Carbon Dioxide"
+    },
+    {
+      "question": "What is the freezing point of water?",
+      "options": ["0°C", "100°C", "32°C", "273K"],
+      "answer": "0°C"
+    },
+    {
+      "question": "Which ocean is the largest on Earth?",
+      "options": ["Atlantic Ocean", "Indian Ocean", "Pacific Ocean", "Arctic Ocean"],
+      "answer": "Pacific Ocean"
+    },
+    {
+      "question": "What is the currency of the United States?",
+      "options": ["Euro", "Dollar", "Pound", "Yen"],
+      "answer": "Dollar"
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "options": ["Vincent Van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Michelangelo"],
+      "answer": "Leonardo da Vinci"
+    },
+    {
+      "question": "Which country is known as the Land of the Rising Sun?",
+      "options": ["China", "Japan", "Thailand", "Korea"],
+      "answer": "Japan"
+    },
+    {
+      "question": "What is the hardest natural substance on Earth?",
+      "options": ["Gold", "Iron", "Diamond", "Platinum"],
+      "answer": "Diamond"
+    },
+    {
+      "question": "Which language is the most spoken worldwide?",
+      "options": ["English", "Spanish", "Mandarin Chinese", "Hindi"],
+      "answer": "Mandarin Chinese"
+    },
+    {
+      "question": "Who invented the telephone?",
+      "options": ["Alexander Graham Bell", "Thomas Edison", "Nikola Tesla", "James Watt"],
+      "answer": "Alexander Graham Bell"
+    },
+    {
+      "question": "Which is the longest river in the world?",
+      "options": ["Nile", "Amazon", "Yangtze", "Mississippi"],
+      "answer": "Nile"
+    },
+    {
+      "question": "What is the national flower of India?",
+      "options": ["Rose", "Lotus", "Sunflower", "Jasmine"],
+      "answer": "Lotus"
+    },
+    {
+      "question": "Which blood type is known as the universal donor?",
+      "options": ["A", "B", "O-", "AB+"],
+      "answer": "O-"
+    },
+    {
+      "question": "Which continent is the Sahara Desert located on?",
+      "options": ["Asia", "Africa", "Australia", "South America"],
+      "answer": "Africa"
+    },
+    {
+      "question": "In computing, what does 'CPU' stand for?",
+      "options": ["Central Process Unit", "Central Processing Unit", "Computer Personal Unit", "Control Processing Unit"],
+      "answer": "Central Processing Unit"
+    },
+    {
+      "question": "Which is the smallest continent by land area?",
+      "options": ["Europe", "Australia", "Antarctica", "South America"],
+      "answer": "Australia"
+    },
+    {
+      "question": "Who was the first man to step on the Moon?",
+      "options": ["Buzz Aldrin", "Yuri Gagarin", "Neil Armstrong", "Michael Collins"],
+      "answer": "Neil Armstrong"
+    },
+    {
+      "question": "What is the fastest land animal?",
+      "options": ["Lion", "Cheetah", "Horse", "Leopard"],
+      "answer": "Cheetah"
+    },
+    {
+      "question": "Which organ in the human body is primarily responsible for pumping blood?",
+      "options": ["Lungs", "Heart", "Kidneys", "Liver"],
+      "answer": "Heart"
+    },
+    {
+      "question": "What is the national animal of India?",
+      "options": ["Elephant", "Lion", "Tiger", "Peacock"],
+      "answer": "Tiger"
+    },
+    {
+      "question": "Which programming language is known as the mother of all languages?",
+      "options": ["Python", "C", "Assembly", "Java"],
+      "answer": "C"
+    },
+    {
+      "question": "Which company developed the Windows operating system?",
+      "options": ["Apple", "Microsoft", "IBM", "Google"],
+      "answer": "Microsoft"
+    },
+    {
+      "question": "What is the boiling point of water at sea level?",
+      "options": ["50°C", "100°C", "150°C", "212°C"],
+      "answer": "100°C"
+    },
+    {
+      "question": "Which city is known as the City of Love?",
+      "options": ["Rome", "Paris", "Venice", "Prague"],
+      "answer": "Paris"
+    },
+    {
+      "question": "Which instrument measures earthquakes?",
+      "options": ["Thermometer", "Barometer", "Seismograph", "Hygrometer"],
+      "answer": "Seismograph"
+    }
+  ]
+}
